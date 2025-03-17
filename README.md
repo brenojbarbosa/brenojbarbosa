@@ -13,11 +13,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenojbarbosa&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenojbarbosa&layout=compact&theme=radical" width="400px"/>
-</div>
+
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/breno-josé-barbosa/)
