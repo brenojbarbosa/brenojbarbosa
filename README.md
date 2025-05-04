@@ -16,4 +16,4 @@
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/breno-josé-barbosa/) <br/>
-[Portfólio](brenojbarbosa.github.io/)
+[Portfólio](https://brenojbarbosa.github.io/)
